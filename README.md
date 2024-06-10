@@ -9,6 +9,21 @@ Python 3.6+, Pandas, NumPy, Matplotlib, Seaborn, XGBoost, Scikit-learn
 ## Data
 The dataset should be placed in a data directory within the current working directory and named energy_data.csv. The CSV file should have a datetime column for timestamps and an energy_MW column for energy consumption values.
 
+## Exploratory Data Analysis
+
+#### Week Profile
+![alt text](screenshots/week_profile.png.png)
+
+#### Month Box Plot
+![alt text](screenshots/boxplot.png)
+
+#### Cumulative Probability Distribution
+![alt text](screenshots/cpd.png)
+
+## Final Predictions
+
+![alt text](screenshots/modelpred.png)
+
 ## Usage
 
 Clone the repository and navigate to the project directory.
