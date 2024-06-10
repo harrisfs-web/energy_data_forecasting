@@ -12,7 +12,7 @@ The dataset should be placed in a data directory within the current working dire
 ## Exploratory Data Analysis
 
 #### Week Profile
-![alt text](screenshots/week_profile.png.png)
+![alt text](screenshots/week_profile.png)
 
 #### Month Box Plot
 ![alt text](screenshots/boxplot.png)
